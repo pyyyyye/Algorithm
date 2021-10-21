@@ -1,0 +1,2 @@
+해당 파일 위에 cursor를 올리고 Ctrl + alt + N 하면 터미널창에 결과가 보여집니다.
+(code runner 설치한 상태)
